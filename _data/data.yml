@@ -16,7 +16,7 @@ sidebar:
     phone: +34677645119
     citizenship:
     #website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: imontesfranco
     #xing: alandoe
     github: imontesfranco
     #telegram: # add your nickname without '@' sign
@@ -51,113 +51,52 @@ education:
       university: Universidad Politécnica de Madrid
       time: 2000 - 2007
 experiences:
-    - role: Desarrollador de aplicaciones web
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    title: Experiencia profesional
+    - role: Desarrollador Full Stack
+      time: 2009 - Actualidad
+      company: Tragsatec, Madrid
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Toma de requisitos funcionales y extracción de requisitos técnicos
+          - Análisis y diseño de soluciones técnicas
+          - Diseño de modelos de base de datos
+          - Monitorización
+          - Evolución de aplicaciones y bases de datos
+          - Gestión de las tareas del backlog
+          - Mentorización y formación del resto del staff técnico
+          - Formación a usuarios
+          - Integración continua
+    - role: Técnico de Desarrollo Seguro
+      time: 2008 - Actualidad
+      company: Tragsatec, Madrid
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Análisis estáticos: calidad de código, posibles bugs y 
+          vulnerabilidades de seguridad
+          - Análisis dinámicos: inyecciones de SQL, XSS, path traversal, etc.
+          - Análisis de vulnerabilidades públicas en librerías de terceros
+    - role: Desarrolladora de aplicaciones de escritorio
+      time: 2007 - 2010
+      company: Tragsatec, Madrid
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Desarrollo supervisado de aplicaciones basados en requisitos funcionales
 projects:
-    title: Projects
+    title: Tecnologías
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Lenguajes de programación
+        tagline: "Java (Struts 2, Spring, Hibernate, Spring MVC para portlets, Jasper Reports), 
+        Javascript (JQuery), .NET (C# Web Forms, WCF)"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Bases de datos
+        tagline: "SQL Server y Oracle"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Integración continua
+        tagline: "Jenkins"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - title: Pruebas de seguridad
+        tagline: "Sonarqube, Kiuwan, OwaspZap, Dependency Check"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
