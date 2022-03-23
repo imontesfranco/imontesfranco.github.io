@@ -45,7 +45,17 @@ sidebar:
 career-profile:
     title: Perfil
     summary: |
-      Quién soy, qué quiero, qué busco
+      Soy una ingeniera informatica con más de 15 años de experiencia en el sector
+      tecnológico, especializada en proyectos con la administración pública (ministerios,
+      confederaciones hidrográficas, etc). 
+      Tras una larga y grata experiencia en mi actual empresa, busco comenzar una
+      nueva etapa fuera de mi círculo de confianza y afrontar nuevos retos 
+      tecnológicos y de negocio. Me gustaría crecer como Full Stack ya que lo que 
+      más valoro de este perfil es la diversidad de tareas a resolver, el 
+      conocimiento de un proyecto desde la base de datos a la interfaz de usuario
+      y el poder trabajar y comunicarme con distintos equipos. 
+      Busco una empresa que me permita compaginar mi desarrollo profesional con 
+      mi gran afición (disfrutar de mi caballo)
 education:
     - degree: Ingeniería informática
       university: Universidad Politécnica de Madrid
@@ -79,10 +89,6 @@ experiences:
           - Desarrollo supervisado de aplicaciones basados en requisitos funcionales
 projects:
     title: Tecnologías
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Lenguajes de programación
         tagline: "Java (Struts 2, Spring, Hibernate, Spring MVC para portlets, Jasper Reports), 
